@@ -5,7 +5,7 @@ print('Did you know that I am coming for you??')
 print('\n')
 print('Yes, you!')
 
-print("--------    -------      -------     ------      |     --------")
+print("--------    -------      -------     -------      |     --------")
 print("   |        |            |           |            |     |")
 print("   |        |______      |______     |______      |     |------")
 print("   |        |                  |           |      |     |")
